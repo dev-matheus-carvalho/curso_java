@@ -1,0 +1,13 @@
+package secao04;
+
+public class aula23 {
+
+	public static void main(String[] args) {
+		
+		//saidas no java
+		
+		System.out.println("Olá mundo");
+
+	}
+
+}

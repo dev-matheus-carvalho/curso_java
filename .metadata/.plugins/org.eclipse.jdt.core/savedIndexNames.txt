@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\Dell\Documents\Programação\Curso Java COMPLETO 2023 Programação Orientada a Objetos +Projetos\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+2803340133.index
+3079489510.index
