@@ -7,7 +7,7 @@ public class aula23 {
 		// Saídas no Java
 		
 		System.out.println("Olá mundo");
-		System.out.println("Sou outra saída");
+		System.out.println("Sou outra saídas");
 
 	}
 
